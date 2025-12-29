@@ -1,6 +1,6 @@
 ### Hi there 👋,I'm RRz.
 
-- 🔭 I’m currently working on Li Auto.
+- 🔭 I’m currently working on Life Live.
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to SDLC/Cloud Security.
 - 📫 How to reach me: oliverui12318@gmail.com
